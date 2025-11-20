@@ -1,0 +1,5 @@
+{
+  "name": "WightWeather AI",
+  "description": "A beautiful, AI-powered weekly weather forecast for the Isle of Wight using Gemini Search Grounding.",
+  "requestFramePermissions": []
+}
